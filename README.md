@@ -7,6 +7,8 @@ Format for input file for Lat Lon to UTM conversion:
 #
     Point Id  Latitude  Longitude Altitude
 #
+Note: Lat Lon should be in Degree Decimal Format
+#
 Format for input file for UTM to Lat Lon conversion:
 #
     Point Id  Easting  Northing Altitude
