@@ -18,3 +18,5 @@ Delimiter should be one of the following:
     Comma, Space, Tab, Semicolon
 #
 A text file containing the result of conversion will be created with given output file name or with given input file name (if output file name is not given) in the same folder as that of input file. 
+#
+Note: Only .txt and .csv formats are supported.
